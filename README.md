@@ -43,7 +43,7 @@ I added my own custom mode, spanishconvert, in the python code. I use it all the
 
 # Tweaking
 
-If you want to fiddle with the code, open the application in Automator. (P.S. Extremely sorry I forgot to add comments! The shell script is pretty straightforward but the Python code is a mess.)
+If you want to fiddle with the AppleScript code, open the application in Automator. To modify the Python script, right click the app, click "Show Package Contents", navigate to the Contents directory and you should see convert.py. (P.S. Extremely sorry I forgot to add comments! The shell script is pretty straightforward but the Python code is a mess.)
 
 
 
