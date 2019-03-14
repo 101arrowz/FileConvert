@@ -10,7 +10,7 @@ Contact arjunbarrett@gmail.com for any inquiries.
 
 PRE-REQUISITES
 
-Install XCode Command Line Tools (CLT) by running the command `xcode-select —install` in the Terminal. Simply running the .app installer should install all other necessary components.
+Install XCode Command Line Tools (CLT) by running the command `xcode-select —-install` in the Terminal. Simply running the .app installer should install all other necessary components.
 
 
 
