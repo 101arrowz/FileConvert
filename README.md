@@ -8,21 +8,21 @@ Contact arjunbarrett@gmail.com for any inquiries.
 
 
 
-#PRE-REQUISITES
+# Pre-requisites
 
 Install XCode Command Line Tools (CLT) by running the command `xcode-select —-install` in the Terminal. Simply running the .app installer should install all other necessary components.
 
 
 
 
-#INSTALLATION
+# Installation
 
 Use the installer.
 
 
 
 
-#DOCUMENTATION
+# Documentation
 
 The app will ask you for arguments. Separate arguments with the space key. There are two modes - auto and standard. No need to designate that it’s standard mode; simply type in a filepath as your first argument (surround the path with quotes if there are any spaces). Your second argument should be the desired filetype. for example, type
 
@@ -41,18 +41,18 @@ I added my own custom mode, spanishconvert, in the python code. I use it all the
 
 
 
-#TWEAKING
+# Tweaking
 
 If you want to fiddle with the code, open the application in Automator. (P.S. Extremely sorry I forgot to add comments! The shell script is pretty straightforward but the Python code is a mess.)
 
 
 
 
-#UNINSTALLATION
+# Uninstallation
 
 Paste the following into Terminal:
 
-rm -r /Applications/FileConvert.app && rm -r /Applications/.CloudConvertFiles | true
+`rm -r /Applications/FileConvert.app && rm -r /Applications/.CloudConvertFiles | true`
 
 
 
@@ -61,5 +61,5 @@ That's it!
 
 
 
-#THANK YOU
+# Thank you
 for taking the time to read this wall of text. I rarely read READMEs so I congratulate you. Have fun with the application!
